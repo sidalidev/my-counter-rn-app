@@ -2,8 +2,7 @@
 
 ## To run it
 
-1 - Clone the repo
-2 -
+Clone the repo, then in your terminal:
 
 ```bash
 cd {Project Folder}
